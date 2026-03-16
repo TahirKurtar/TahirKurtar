@@ -1,5 +1,13 @@
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Tahir+Kurtar)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🌐 Connect with Me
 
 <p>
