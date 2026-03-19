@@ -26,6 +26,9 @@
   <a href="https://medium.com/@tahirkurtar" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://huggingface.co/TahirKurtar" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+  </a>
   <a href="mailto:tahirkurtar50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
